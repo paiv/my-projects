@@ -7,6 +7,8 @@ Projects
   Serve font files from a local directory to Figma web page
 - https://github.com/paiv/mindmap \
   Partial dumper of old MindNode files
+- https://gist.github.com/paiv/2768ca80d09ea5f7f263666746b90189 \
+  Maze generation tutorial
 - https://github.com/paiv/imagen \
   Fill iPhone storage with generated images
 
@@ -27,6 +29,8 @@ Projects
 --
 - https://github.com/paiv/aoc2019 \
   AoC
+- https://gist.github.com/paiv/a581f02200f3dcdf739ddd8d3b4cdfe6 \
+  modinv (py)
 - https://github.com/paiv/picoctf2019 \
   picoCTF
 - https://github.com/paiv/icfpc2019 \
@@ -53,6 +57,8 @@ Projects
   AoC
 - https://github.com/paiv/synasm \
   Synacor VM assembler
+- https://gist.github.com/paiv/1e01aca5be1842fa09da5bb5f3934551 \
+  Game of Life tutorial
 - https://github.com/paiv/swift-priorityqueue \
   Priority queue in Swift
 - https://github.com/paiv/latynka \
@@ -76,8 +82,12 @@ Projects
   Run MNIST TensorFlow deep neural network on iOS BNNS
 - https://github.com/paiv/synacor-challenge \
   Solving the Synacor Challenge
+- https://gist.github.com/paiv/9490c20e6d985f512fab \
+  mathcalc.js calculator parser tutorial
 - https://github.com/paiv/html5.2x.game \
   Game Programming with HTML5
+- https://gist.github.com/paiv/8d08144186d33737f1df \
+  Fix audio levels on Coursera ML course
 
 2015
 --
@@ -85,6 +95,8 @@ Projects
   AoC
 - https://github.com/paiv/icfpc2015 \
   ICFPC
+- https://gist.github.com/paiv/b4f76fc236fc6a3d956b \
+  Reproduce .NET String GetHashCode
 - https://github.com/paiv/ml-text \
   Smartling Text Classifier Library
 - https://github.com/paiv/filetype-detector \
