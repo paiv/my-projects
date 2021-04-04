@@ -3,7 +3,7 @@ Projects
 
 2021
 --
-- https://gist.github.com/paiv/5791fe34277e8387a7611b589d39312e
+- https://gist.github.com/paiv/5791fe34277e8387a7611b589d39312e \
   Bit textures generation tutorial
 - https://github.com/paiv/figma-local-fonts \
   Serve font files from a local directory to Figma web page
