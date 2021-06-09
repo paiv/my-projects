@@ -3,6 +3,8 @@ Projects
 
 2021
 --
+- https://github.com/paiv/avaudiosession-explorer \
+  A tool to explore AVAudioSession (iOS) configuration parameters
 - https://github.com/paiv/gemini-client \
   Basic client for project Gemini
 - https://gist.github.com/paiv/5791fe34277e8387a7611b589d39312e \
