@@ -3,6 +3,8 @@ Projects
 
 2021
 --
+- https://github.com/paiv/icfpc2021 \
+  ICFPC
 - https://github.com/paiv/avaudiosession-explorer \
   A tool to explore AVAudioSession (iOS) configuration parameters
 - https://github.com/paiv/gemini-client \
