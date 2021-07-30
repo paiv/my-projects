@@ -3,6 +3,8 @@ Projects
 
 2021
 --
+- https://github.com/paiv/uxn-ios \
+  A Uxn emulator on iOS
 - https://github.com/paiv/icfpc2021 \
   ICFPC
 - https://github.com/paiv/avaudiosession-explorer \
