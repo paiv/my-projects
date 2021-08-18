@@ -134,7 +134,8 @@ Projects
 - https://github.com/paiv/icfpc2012 \
   ICFPC
 - https://github.com/paiv/AngleGradientLayer \
-  Angle gradients for iOS
+  Angle gradients for iOS \
+  <img src="https://user-images.githubusercontent.com/196601/129967174-7c99a135-7a3c-41b6-99d9-6a51d0061107.png" width="60">
 
 2010
 --
