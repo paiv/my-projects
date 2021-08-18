@@ -10,7 +10,7 @@ Projects
   ICFPC
 - https://github.com/paiv/avaudiosession-explorer \
   A tool to explore AVAudioSession (iOS) configuration parameters \
-  <img src="https://user-images.githubusercontent.com/196601/129958044-d490f911-efed-4127-8786-6bac49861ba0.png" width="60">
+  <img src="https://user-images.githubusercontent.com/196601/129959361-6e00255c-359a-4fa5-bdbb-5ee242b47db6.png" width="60">
 - https://github.com/paiv/gemini-client \
   Basic client for project Gemini
 - https://gist.github.com/paiv/5791fe34277e8387a7611b589d39312e \
