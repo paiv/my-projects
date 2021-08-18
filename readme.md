@@ -4,11 +4,13 @@ Projects
 2021
 --
 - https://github.com/paiv/uxn-ios \
-  A Uxn emulator on iOS
+  An Uxn emulator for iOS \
+  <img src="https://user-images.githubusercontent.com/196601/129958405-3eaacc6f-36be-4dde-804e-740657c20258.png" width="60">
 - https://github.com/paiv/icfpc2021 \
   ICFPC
 - https://github.com/paiv/avaudiosession-explorer \
-  A tool to explore AVAudioSession (iOS) configuration parameters
+  A tool to explore AVAudioSession (iOS) configuration parameters \
+  <img src="https://user-images.githubusercontent.com/196601/129958044-d490f911-efed-4127-8786-6bac49861ba0.png" width="60">
 - https://github.com/paiv/gemini-client \
   Basic client for project Gemini
 - https://gist.github.com/paiv/5791fe34277e8387a7611b589d39312e \
@@ -20,7 +22,8 @@ Projects
 - https://gist.github.com/paiv/2768ca80d09ea5f7f263666746b90189 \
   Maze generation tutorial
 - https://github.com/paiv/imagen \
-  Fill iPhone storage with generated images
+  Fill iPhone storage with generated images \
+  <img src="https://user-images.githubusercontent.com/196601/129957797-3eaa438c-4fe3-4eef-ab25-3b5c1a65d61f.png" width="60">
 
 2020
 --
@@ -31,7 +34,8 @@ Projects
 - https://github.com/paiv/icfpc2020 \
   ICFPC
 - https://github.com/paiv/warmth \
-  Night Shift and shade control in status menu
+  Night Shift and shade control in status menu \
+  <img src="https://user-images.githubusercontent.com/196601/129957166-6544af90-3f0f-411b-9357-0301f125af37.png" width="60">
 - https://github.com/paiv/swift-pcg-random \
   PCG Random for Swift language
 
@@ -50,7 +54,8 @@ Projects
 - https://github.com/paiv/snake \
   Snake the game
 - https://github.com/paiv/default-browser \
-  Intercept desktop links with default browser
+  Intercept desktop links with default browser \
+  <img src="https://user-images.githubusercontent.com/196601/129956407-650dc28a-e4ed-4f61-9864-8cac5138a1e2.png" width="60">
 
 2018
 --
@@ -72,7 +77,8 @@ Projects
 - https://github.com/paiv/swift-priorityqueue \
   Priority queue in Swift
 - https://github.com/paiv/latynka \
-  Browser extension to present Ukrainian Cyrillic in Latin script
+  Browser extension to present Ukrainian Cyrillic in Latin script \
+  <img src="https://user-images.githubusercontent.com/196601/129955266-cdeae6f8-a1e8-4880-9869-eddc2162895f.png" width="60">
 - https://github.com/paiv/icfpc2017 \
   ICFPC
 - https://github.com/paiv/oop_study \
@@ -89,7 +95,8 @@ Projects
 - https://github.com/paiv/security-container-ios \
   Lock screen UI pattern
 - https://github.com/paiv/mnist-bnns \
-  Run MNIST TensorFlow deep neural network on iOS BNNS
+  Run MNIST TensorFlow deep neural network on iOS BNNS \
+  <img src="https://user-images.githubusercontent.com/196601/129954275-c4cceceb-de8a-42ed-bad6-f7ebd0b622dd.png" width="60">
 - https://github.com/paiv/synacor-challenge \
   Solving the Synacor Challenge
 - https://gist.github.com/paiv/9490c20e6d985f512fab \
