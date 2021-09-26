@@ -3,6 +3,8 @@ Projects
 
 2021
 --
+- https://github.com/paiv/fbhc2021 \
+  Facebook Hacker Cup
 - https://github.com/paiv/uxn-ios \
   An Uxn emulator for iOS \
   <img src="https://user-images.githubusercontent.com/196601/129958405-3eaacc6f-36be-4dde-804e-740657c20258.png" width="60">
