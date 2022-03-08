@@ -1,5 +1,4 @@
-[![standwithukraine](https://user-images.githubusercontent.com/196601/157238424-8e24ec7d-9fa2-43a0-a864-06835700371c.svg)](https://ukrainewar.carrd.co/)
-
+[![standwithukraine](https://user-images.githubusercontent.com/196601/157243286-978a1e31-4440-4139-b0c3-fce5fa5f6841.svg)](https://ukrainewar.carrd.co/)
 
 Projects
 ==
