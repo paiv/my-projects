@@ -6,6 +6,8 @@ Projects
 
 2022
 --
+- https://github.com/paiv/tiff-analysis \
+  TIFF parsing demo
 - https://paiv.github.io/midnight-protocol/hacker-chess/ \
   Hacker Chess \
   <img src="https://user-images.githubusercontent.com/196601/153963636-0b099b61-5719-4d28-8400-61c2cf868498.png" width="60">
