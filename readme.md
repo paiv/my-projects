@@ -6,6 +6,8 @@ Projects
 
 2022
 --
+- https://github.com/paiv/swift-rxbgen/ \
+  RegexBuilder snippet generator from textual regex
 - https://github.com/paiv/tiff-analysis \
   TIFF parsing demo
 - https://paiv.github.io/midnight-protocol/hacker-chess/ \
