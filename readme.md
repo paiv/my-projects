@@ -6,6 +6,8 @@ Projects
 
 2022
 --
+- https://github.com/paiv/icfpc2022 \
+  ICFPC
 - https://paiv.github.io/swift-rxbgen/ \
   RegexBuilder snippet generator from textual regex \
   <img src="https://user-images.githubusercontent.com/196601/175799508-c1f01754-85b1-4d00-8e7d-2f2751f0949d.png" width="60">
