@@ -4,6 +4,11 @@ Projects
 ==
 
 
+2023
+--
+- https://paiv.github.io/latynka-keyboard/ \
+  How to type in Ukrainian Latin
+
 2022
 --
 - https://github.com/paiv/icfpc2022 \
