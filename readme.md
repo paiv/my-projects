@@ -6,6 +6,8 @@ Projects
 
 2023
 --
+- https://github.com/paiv/icfpc2023 \
+  ICFPC
 - https://paiv.github.io/latynka-keyboard/ \
   How to type in Ukrainian Latin
 
