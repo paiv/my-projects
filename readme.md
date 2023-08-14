@@ -6,6 +6,8 @@ Projects
 
 2023
 --
+- https://github.com/paiv/local-tracer-swift \
+  Primitive tracing with flame graph export
 - https://github.com/paiv/icfpc2023 \
   ICFPC
 - https://paiv.github.io/latynka-keyboard/ \
