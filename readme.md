@@ -6,6 +6,8 @@ Projects
 
 2023
 --
+- https://github.com/paiv/aoc2023 \
+  AoC
 - https://github.com/paiv/local-tracer-swift \
   Primitive tracing with flame graph export
 - https://github.com/paiv/icfpc2023 \
@@ -15,6 +17,8 @@ Projects
 
 2022
 --
+- https://github.com/paiv/aoc2022 \
+  AoC
 - https://github.com/paiv/icfpc2022 \
   ICFPC
 - https://paiv.github.io/swift-rxbgen/ \
