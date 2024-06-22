@@ -4,6 +4,11 @@ Projects
 ==
 
 
+2024
+--
+- https://github.com/paiv/json-c \
+  JSON streaming parser reader and writer
+
 2023
 --
 - https://github.com/paiv/aoc2023 \
