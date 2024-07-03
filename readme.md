@@ -6,6 +6,8 @@ Projects
 
 2024
 --
+- https://github.com/paiv/icfpc2024 \
+  ICFPC
 - https://github.com/paiv/json-c \
   JSON streaming parser reader and writer
 
