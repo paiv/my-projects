@@ -6,6 +6,8 @@ Projects
 
 2024
 --
+- https://paiv.github.io/ukraine-toponyms/ \
+  Ukrainian toponyms
 - https://github.com/paiv/punycode-js \
   Punycode string encoder and decoder
 - https://github.com/paiv/icfpc2024 \
@@ -136,7 +138,7 @@ Projects
   AoC
 - https://github.com/paiv/icfpc2016 \
   ICFPC
-- https://github.com/paiv/fci-breeds \
+- https://paiv.github.io/fci-breeds/ \
   List of dog breeds recognized by the FCI
 - https://github.com/paiv/security-container-ios \
   Lock screen UI pattern
