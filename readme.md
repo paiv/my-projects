@@ -8,6 +8,8 @@ Projects
 --
 - https://paiv.github.io/ukraine-toponyms/ \
   Ukrainian toponyms
+- https://github.com/paiv/osmpbf \
+  OpenStreetMap OSM PBF data reader
 - https://github.com/paiv/punycode-js \
   Punycode string encoder and decoder
 - https://github.com/paiv/icfpc2024 \
