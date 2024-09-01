@@ -6,6 +6,9 @@ Projects
 
 2024
 --
+- https://paiv.github.io/webgpu-game-of-life/ \
+  WebGPU tutorial: Conway's Game of Life \
+  <img src="https://github.com/user-attachments/assets/7945b8f4-befe-40e5-9382-d18b855af8f9" width="60">
 - https://paiv.github.io/ukraine-toponyms/ \
   Ukrainian toponyms
 - https://github.com/paiv/osmpbf \
