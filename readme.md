@@ -6,6 +6,9 @@ Projects
 
 2024
 --
+- https://github.com/paiv/tag-input-swiftui \
+  TokenField input in SwiftUI \
+  <img src="https://github.com/user-attachments/assets/0037f425-36cc-47fb-b1a6-9033a27698d7" width="60">
 - https://paiv.github.io/webgpu-game-of-life/ \
   WebGPU tutorial: Conway's Game of Life \
   <img src="https://github.com/user-attachments/assets/7945b8f4-befe-40e5-9382-d18b855af8f9" width="60">
