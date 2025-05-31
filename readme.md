@@ -4,6 +4,12 @@ Projects
 ==
 
 
+2025
+--
+- https://paiv.github.io/latynka/wordle.html \
+  Wordle in Ukrainian Latin script \
+  <img src="https://github.com/user-attachments/assets/cf7a112c-24ee-4303-af37-3077777c5d71" width="60">
+
 2024
 --
 - https://paiv.github.io/vim-keyguide/ \
