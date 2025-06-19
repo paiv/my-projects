@@ -6,6 +6,9 @@ Projects
 
 2025
 --
+- https://github.com/paiv/qoiview \
+  QOI image thumbnails and quick look \
+  <img src="https://github.com/user-attachments/assets/f85394c7-0839-4cfc-aa2e-9b3b90017f31" width="60">
 - https://paiv.github.io/latynka/wordle.html \
   Wordle in Ukrainian Latin script \
   <img src="https://github.com/user-attachments/assets/cf7a112c-24ee-4303-af37-3077777c5d71" width="60">
