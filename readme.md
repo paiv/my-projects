@@ -6,6 +6,8 @@ Projects
 
 2025
 --
+- https://github.com/paiv/mng-mill \
+  Logic Mill engine to the Marches & Gnats spec
 - https://github.com/paiv/qoiview \
   QOI image thumbnails and quick look \
   <img src="https://github.com/user-attachments/assets/f85394c7-0839-4cfc-aa2e-9b3b90017f31" width="60">
