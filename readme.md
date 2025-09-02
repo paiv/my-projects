@@ -6,6 +6,9 @@ Projects
 
 2025
 --
+- https://github.com/paiv/mtmc16 \
+  MTMC-16 Montana Mini-Computer \
+  <img src="https://github.com/user-attachments/assets/b743977f-99fb-4a7f-ad76-d9c53cee6921" width="60"/>
 - https://github.com/paiv/mng-mill \
   Turing machine of Marches & Gnats
 - https://github.com/paiv/qoiview \
