@@ -6,6 +6,8 @@ Projects
 
 2025
 --
+- https://github.com/paiv/icfpc2025 \
+  ICFPC
 - https://github.com/paiv/mtmc16 \
   MTMC-16 Montana Mini-Computer \
   <img src="https://github.com/user-attachments/assets/a801af8c-a16d-4e26-b314-2188b3ef685e" width="60"/>
