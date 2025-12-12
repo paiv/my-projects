@@ -6,6 +6,8 @@ Projects
 
 2025
 --
+- https://github.com/paiv/aoc2025 \
+  AoC
 - https://github.com/paiv/i18n-puzzles \
   i18n puzzles
 - https://github.com/paiv/icfpc2025 \
