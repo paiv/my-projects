@@ -6,13 +6,9 @@ Projects
 
 2025
 --
-- https://github.com/paiv/i18n-puzzles \
-  i18n puzzles
 - https://github.com/paiv/mtmc16 \
   MTMC-16 Montana Mini-Computer \
   <img src="https://github.com/user-attachments/assets/a801af8c-a16d-4e26-b314-2188b3ef685e" width="60"/>
-- https://github.com/paiv/mng-mill \
-  Turing machine of Marches & Gnats
 - https://github.com/paiv/qoiview \
   QOI image thumbnails and quick look \
   <img src="https://github.com/user-attachments/assets/f85394c7-0839-4cfc-aa2e-9b3b90017f31" width="60">
@@ -69,8 +65,6 @@ Projects
 - https://github.com/paiv/ios13-linkview \
   iOS 13 Link View demo \
   <img src="https://user-images.githubusercontent.com/196601/137208623-b30c829b-5948-4707-a78f-f9fe9f9adb65.png" width="60">
-- https://github.com/paiv/fbhc2021 \
-  Facebook Hacker Cup
 - https://github.com/paiv/uxn-ios \
   An Uxn emulator for iOS \
   <img src="https://user-images.githubusercontent.com/196601/129958405-3eaacc6f-36be-4dde-804e-740657c20258.png" width="60">
@@ -111,8 +105,6 @@ Projects
 
 2017
 --
-- https://github.com/paiv/synasm \
-  Synacor VM assembler
 - https://gist.github.com/paiv/1e01aca5be1842fa09da5bb5f3934551 \
   Game of Life tutorial
 - https://github.com/paiv/priorityqueue-swift \
@@ -132,8 +124,6 @@ Projects
 - https://github.com/paiv/mnist-bnns \
   Run MNIST TensorFlow deep neural network on iOS BNNS \
   <img src="https://user-images.githubusercontent.com/196601/129954275-c4cceceb-de8a-42ed-bad6-f7ebd0b622dd.png" width="60">
-- https://github.com/paiv/synacor-challenge \
-  Solving the Synacor Challenge
 - https://gist.github.com/paiv/9490c20e6d985f512fab \
   mathcalc.js calculator parser tutorial
 - https://github.com/paiv/html5.2x.game \
@@ -156,19 +146,15 @@ Projects
   Angle gradients for iOS \
   <img src="https://user-images.githubusercontent.com/196601/129967174-7c99a135-7a3c-41b6-99d9-6a51d0061107.png" width="60">
 
-2009
---
-- https://github.com/paiv/sapka2009 \
-  Sapka contest
-
 2004
 --
 - https://github.com/paiv/largenum \
   Multi-precision arithmetic library in plain C++
 
-
-AoC
+Puzzles and competitions
 --
+
+### AoC
   [2025](https://github.com/paiv/aoc2025)
   [2024](https://github.com/paiv/aoc2024)
   [2023](https://github.com/paiv/aoc2023)
@@ -184,9 +170,13 @@ AoC
 - https://github.com/paiv/aoc-intcode-tutorial \
   Tutorial building Intcode machine of Advent of Code 2019
 
+### Synacor Challenge
+- https://github.com/paiv/synacor-challenge \
+  Solving the Synacor Challenge
+- https://github.com/paiv/synasm \
+  Synacor VM assembler
 
-ICFPC
---
+### ICFPC
   [2025](https://github.com/paiv/icfpc2025)
   [2024](https://github.com/paiv/icfpc2024)
   [2023](https://github.com/paiv/icfpc2023)
@@ -204,7 +194,12 @@ ICFPC
   [2010](https://github.com/paiv/icfpc2010)
   [2006](https://github.com/paiv/icfpc2006)
 
-picoCTF
---
+### picoCTF
   [2019](https://github.com/paiv/picoctf2019)
   [2018](https://github.com/paiv/picoctf2018)
+
+### More
+- [i18n puzzles](https://github.com/paiv/i18n-puzzles)
+- Marches & Gnats [Turing machine](https://github.com/paiv/mng-mill)
+- Facebook Hacker Cup [2021](https://github.com/paiv/fbhc2021)
+- Sapka contest [2009](https://github.com/paiv/sapka2009)
