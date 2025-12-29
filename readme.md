@@ -6,6 +6,8 @@ Projects
 
 2025
 --
+- https://github.com/paiv/dilemma \
+  Tit for Tat, the Evolution of Cooperation
 - https://github.com/paiv/milp-julia \
   Math Programming With Julia: LP/MIP problems
 - https://github.com/paiv/mtmc16 \
