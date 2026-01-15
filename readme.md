@@ -6,6 +6,8 @@ Projects
 
 2025
 --
+- https://github.com/paiv/pcg64-julia \
+  PCG Random in Julia language
 - https://github.com/paiv/dilemma \
   Tit for Tat, the Evolution of Cooperation
 - https://github.com/paiv/milp-julia \
