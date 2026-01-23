@@ -205,6 +205,7 @@ Puzzles and competitions
   [2018](https://github.com/paiv/picoctf2018)
 
 ### More
+- [Everybody Codes](https://github.com/paiv/everybody-codes)
 - [i18n puzzles](https://github.com/paiv/i18n-puzzles)
 - Marches & Gnats [Turing machine](https://github.com/paiv/mng-mill)
 - Facebook Hacker Cup [2021](https://github.com/paiv/fbhc2021)
