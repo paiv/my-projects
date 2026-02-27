@@ -4,6 +4,12 @@ Projects
 ==
 
 
+2026
+--
+- https://paiv.github.io/forest-fires/ \
+  Forest fire model \
+  <img src="https://github.com/user-attachments/assets/77f0c506-5d8b-4927-8f27-1ce754e98737" width="60"/>
+
 2025
 --
 - https://github.com/paiv/pcg64-julia \
