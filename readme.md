@@ -189,6 +189,7 @@ Puzzles and competitions
   Synacor VM assembler
 
 ### ICFPC
+  [2026](https://github.com/paiv/icfpc2026)
   [2025](https://github.com/paiv/icfpc2025)
   [2024](https://github.com/paiv/icfpc2024)
   [2023](https://github.com/paiv/icfpc2023)
